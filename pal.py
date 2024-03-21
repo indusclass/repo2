@@ -9,3 +9,4 @@ if pal:
     print("The given string is a palindrome")
 else:
     print("The given string is not a palindrome")
+print("Changed")
